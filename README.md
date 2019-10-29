@@ -3,5 +3,5 @@ this is a test repo for web26
 
 ## This is a readme file
 
-Prem Krishna
+Prem Puttegowda
  Santa Rosa, CA
